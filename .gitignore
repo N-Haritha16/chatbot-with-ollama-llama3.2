@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Jupyter / notebooks (if you use them for exploration)
+.ipynb_checkpoints/
+
+# Generated evaluation file (will be recreated by chatbot.py)
+eval/results.md
